@@ -14,5 +14,12 @@ Text-to-handwriting converter using fonts and image processing.
 
 
 -----------
+# Open for Hacktoberfest!
+ - Fix known issues
+ - Add new issues
+ - Ask for an issue to be assigned to you
+ - Make a Pull Request
+ - Bag a PR!
 
-Currently, work in progress of making the paper folded in the centre using imaghe processing for a more faking effect. 
+   
+Currently, work in progress of making the paper folded in the centre using image processing for a more faking effect. 
